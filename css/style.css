@@ -1,0 +1,31 @@
+.container {
+  margin-top: 2%;
+  font-family: 'Copse', serif;
+}
+
+.resultList {
+  margin-top: 2%;
+}
+
+.details {
+  color: black;
+}
+
+.channelLogo {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.channelName {
+  padding-left: 15%;
+}
+
+.channelInfo {}
+
+.well {
+  width: 80%;
+  margin: auto;
+  border-color: white;
+  border-width: 2px;
+  background-color: #ead1dc;
+}
